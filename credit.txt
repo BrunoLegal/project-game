@@ -1,1 +1,1 @@
-using code copied from https://realpython.com/pygame-a-primer/ for learning purposes
+using code from https://realpython.com/pygame-a-primer/ in my examples for learning purposes
